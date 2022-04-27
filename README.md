@@ -4,7 +4,6 @@
 Here I put together my main scripts made by me.
 DESCRIPTION OF THE FILES and FOLDERS:
 
-------------------------------------------------------------------------------
 
 FOLDERS:
 
